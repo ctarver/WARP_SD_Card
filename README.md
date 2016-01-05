@@ -8,8 +8,7 @@ Each slot has a different image for the WARP verision 3 board. They are as follo
 
 Slot | Content | Version | Radios |
 --- | --- | --- | --- |
-Slot 0 | WARPLab | v7.7 | 2 radio |
-Slot 1 | WARPLab | v7.7 | 4 radio |
-Slot 2 | WARPLab | v7.4 | 2 radio |
-Slot 3 | WARPLab | v7.4 | 4 radio |
-Slot 4 | 802.11 AP ref design | v1.4 | |
+Slot 0 | WARPLab | 7.7 | 2 radio |
+Slot 1 | WARPLab | 7.7 | 4 radio |
+Slot 2 | WURCLab |  | |
+Slot 4 | 802.11 AP ref design | 1.4 | |
