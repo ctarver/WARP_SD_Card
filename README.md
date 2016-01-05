@@ -10,5 +10,5 @@ Slot | Content | Version | Radios |
 --- | --- | --- | --- |
 Slot 0 | WARPLab | 7.7 | 2 radio |
 Slot 1 | WARPLab | 7.7 | 4 radio |
-Slot 2 | WURCLab |  | |
-Slot 3 | 802.11 AP ref design | 1.4 | |
+Slot 2 | 802.11 AP ref design | 1.4 | |
+Slot 3 | WURCLab |  | |
